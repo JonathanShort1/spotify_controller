@@ -1,4 +1,4 @@
-# spoitify_controller
+# Spotify Controller
 
 I never used to like songs on Spotify but directly put them into playlists. I figured I never like to listen to songs from different genres at the same time so I would never listen to my "Liked Songs" playlist. But I think liking songs improves the suggestions that Spotify gives (not sure if this is true though).
 
