@@ -4,8 +4,8 @@ I never used to like songs on Spotify but directly put them into playlists. I fi
 
 Now, I have the classic developers dilema. Do I do this task manually in 30 mins or spend an afternoon (or admittedly longer) building a way to automate this. As with all things I initially decided the more complicated route.
 
-I noticed that the Spotify API does not have an end poiont for liking tracks so I had a few ideas:
- - Build a browser extension to controll safari. However I have recently moved to macOS and I'm still climbing that learning curve.
+I noticed that the Spotify API does not have an end point for liking tracks so I had a few ideas:
+ - Build a browser extension to control safari. However I have recently moved to macOS and I'm still climbing that learning curve.
  - Use Selenium and Python to automate a browser session. I kept hitting walls on this and again realised the learning curve was more than I was willing to put in for "30 mins" manual work.
  - Eventually, I realised adding songs to "Saved tracks" was the same as liking songs. This is possible via the Spotify API.
 
@@ -22,5 +22,5 @@ Requirements for this to work:
  
  ## Spotipy unlike songs from playlist
  
- This scripts allows you to unlike all the songs from a specifc playlist. The name of the playlist must be valid for the currently logged in user. You only need to authenticate once so this script used work if you followed the steps above for the first script.
+ This scripts allows you to unlike all the songs from a specific playlist. The name of the playlist must be valid for the currently logged in user. You only need to authenticate once so this script used work if you followed the steps above for the first script.
  
